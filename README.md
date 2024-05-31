@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ambeera vinaykumar and I'm a passionate full stack devolper from india ....</h2>
+<h2 align="left">Hi 👋! My name is Ambeera vinaykumar and I'm a passionate full stack devolper from india </h2>
 
 ###
 
