@@ -11,5 +11,5 @@ I'm a Full Stack Developer with a passion for creating clean and efficient web a
 
 ## Let's Connect
 
-Connect with me on [LinkedIn](www.linkedin.com/in/vinaykumar-ambeera)
+Connect with me on (www.linkedin.com/in/vinaykumar-ambeera)
 
